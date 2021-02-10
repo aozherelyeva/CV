@@ -2,7 +2,6 @@
 
 ###  Обо мне
 
- - [Телефон](tel:+79139239586)
  - [Телеграм](https://t.me/aozherelyeva)
  - [LinkedIn](https://www.linkedin.com/in/aozherelyeva/)
  - [HeadHunter](https://spb.hh.ru/resume/4a837f62ff074ec1c50039ed1f65724b7a6431)
