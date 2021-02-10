@@ -86,6 +86,6 @@ Cambridge University
 
  - Я одна из организаторов сообщества [QA Sisters](https://sites.google.com/view/qasisters);
  - [Коммьюнити лидер](http://women-in-tech.org/ru) Women In Tech в Питере. Регулярно участвую в мероприятиях движения, руководила проведением [курса](https://stepik.org/course/73926) QA school;
- - Активистка [SPb SQA Group](https://t.me/spbsqa) --- в доковидные времена регулярно организовывала митапы;
- - Иногда пишу о работе в свой [блог](https://teletype.in/@qa_nastasiya) или [канал](https://t.me/test_pass) и не только --- например, в июне 2020 писала [статью](https://habr.com/ru/company/jugru/blog/506048/) на Хабр, а потом её опубликовали на software-testing;
- - Часто выступаю на митапах, конференциях --- вот [тут](https://qanastasiya.netlify.app/events.html) весь список ивентов, в которых я принимала участие.
+ - Активистка [SPb SQA Group](https://t.me/spbsqa) — в доковидные времена регулярно организовывала митапы;
+ - Иногда пишу о работе в свой [блог](https://teletype.in/@qa_nastasiya) или [канал](https://t.me/test_pass) и не только — например, в июне 2020 писала [статью](https://habr.com/ru/company/jugru/blog/506048/) на Хабр, а потом её опубликовали на software-testing;
+ - Часто выступаю на митапах, конференциях — вот [тут](https://qanastasiya.netlify.app/events.html) весь список ивентов, в которых я принимала участие.
