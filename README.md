@@ -73,13 +73,13 @@ QA Engineer
 
 
 ### Образование, экзамены
-**2020-2021 --- Test Automation University** (онлайн-программа)
+**2020-2021 — Test Automation University** (онлайн-программа)
 Web UI Java path
 
-**2013-2017 --- НГУ, Новосибирск**
+**2013-2017 — НГУ, Новосибирск**
 Гуманитарный институт, Фундаментальная и прикладная лингвистика
   
-**2012 --- Cambridge ESOL Level 1 Certificate in ESOL International (FCE)**
+**2012 — Cambridge ESOL Level 1 Certificate in ESOL International (FCE)**
 Cambridge University
 
 ### Дополнительно
