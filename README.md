@@ -31,7 +31,7 @@
 **Технологии и инструменты**: Kotlin, Golang, Selenide, retrofit2, TestNG, Golang Testing, Allure, git, GitLab, Google Cloud Console, Jira, Confluence, cURL.
 
 ### Karpov.Courses
-**Август 2021 – февраль 2022** Преподавательница и ведущая специалистка [курса "QA-инженер"](https://karpov.courses/dev/qa)
+**Август 2021 – февраль 2022** Преподавательница и ведущая специалистка [курса "QA-инженер"](https://stepik.org/course/116387/promo)
 
 ### Нетология
 **Март 2021 – май 2022** Читаю лекции о клиент-серверном взаимодействии и инструментах работы с клиентом и сервером.
