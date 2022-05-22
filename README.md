@@ -98,9 +98,9 @@ Cambridge University
 ### Дополнительно
 
  - Организатор сообщества [QA Sisters](https://sites.google.com/view/qasisters);
- - Создательница и хэдлайнер [курса по тестированию Karpov.Courses](https://karpov.courses/dev/qa)
+ - Создательница и хэдлайнер [курса по тестированию Karpov.Courses](https://stepik.org/course/116387/promo)
  - Ведущая [подкаста "Вроде в проде"](https://soundcloud.com/vrode_v_prode)
- - Член программного комитета Podlodka QA Crew #5;
+ - Член программного комитета Podlodka QA Crew;
  - [Ментор](https://getmentor.dev/mentor/anastasiia-zarechneva-388);
  - [Коммьюнити лидер](http://women-in-tech.org/ru) Women In Tech в Питере. Регулярно участвую в мероприятиях движения, руководила проведением [курса](https://stepik.org/course/73926) QA school;
  - Активистка [SPb SQA Group](https://t.me/spbsqa) — в доковидные времена регулярно организовывала митапы;
