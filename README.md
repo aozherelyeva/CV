@@ -1,7 +1,7 @@
 ## Анастасия Заречнева | QA engineer
 
  - [Телеграм](https://t.me/aozherelyeva)
- - [LinkedIn](https://www.linkedin.com/in/aozherelyeva/)
+ - [LinkedIn](https://www.linkedin.com/in/zarechneva/)
 
 ###  Обо мне
 
