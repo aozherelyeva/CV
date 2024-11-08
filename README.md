@@ -104,11 +104,12 @@ Cambridge University
 
 ### Дополнительно
 
- - Организатор сообщества [QA Sisters](https://sites.google.com/view/qasisters);
+ - Организатор сообщества [QA Sisters](https://qa-sisters.com/);
  - Создательница и хэдлайнер [курса по тестированию Karpov.Courses](https://stepik.org/course/116387/promo)
  - Ведущая [подкаста "Вроде в проде"](https://soundcloud.com/vrode_v_prode)
  - [Член программного комитета](https://certificate.podlodka.io/qa8/en/pdldk5818cf143383a3e3a02ea9ccdfe382bf.png) Podlodka QA Crew;
  - [Ментор](https://getmentor.dev/mentor/anastasiia-zarechneva-388);
  - [Коммьюнити лидер](http://women-in-tech.org/ru) Women In Tech в Питере. Регулярно участвую в мероприятиях движения, руководила проведением [курса](https://stepik.org/course/73926) QA school;
+ - [Амбассадорка] Google Women Techmakers;
  - Иногда пишу о работе в свой [telegram-канал](https://t.me/test_pass) и не только — например, в июне 2020 писала [статью](https://habr.com/ru/company/jugru/blog/506048/) на Хабр и software-testing;
- - Часто выступаю на митапах, конференциях — вот [тут](https://qanastasiya.netlify.app/events.html) пополняемый список ивентов, в которых я принимала участие.
+ - Часто выступаю на митапах, конференциях — вот [тут](https://qanastasiya.netlify.app/events.html) неполный список ивентов, в которых я принимала участие.
